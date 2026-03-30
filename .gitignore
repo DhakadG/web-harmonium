@@ -1,0 +1,23 @@
+# Claude Code internal files
+.claude/
+
+# Old versions (not part of this release)
+harmonium-v3.html
+harmonium-v4.html
+index-v2.html
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Node (if added later)
+node_modules/
